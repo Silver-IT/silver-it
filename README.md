@@ -14,4 +14,4 @@
 
 What `Silver-IT` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
 
-Feel free to contact `Silver-IT` via [eMail](maito:silver.19920220@gmail.com) or [Skype](https://join.skype.com/invite/c0EUsy0XycLN) who is always ready to make your professional dreams a reality.
+Feel free to contact `Silver-IT` via [eMail](mailto:silver.19920220@gmail.com?Subject=Hello%20Silver!) or [Skype](https://join.skype.com/invite/c0EUsy0XycLN) who is always ready to make your professional dreams a reality.
