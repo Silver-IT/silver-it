@@ -1,4 +1,4 @@
-![](https://github.com/Silver-IT/silver-it/blob/master/background-0.jpg)
+![](https://github.com/Silver-IT/silver-it/blob/master/background.jpg)
 
 ### Overview
 
