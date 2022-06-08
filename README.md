@@ -2,7 +2,7 @@
 
 ### Overview
 
-`Silver-IT` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Snapwiz`, `GoHomly`, `Bright Data`, `Atom Foundation`, and `okTurtles` with the objective to develop programming solutions and launch new applications. `Silver-IT` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
+`Silver-IT` is a highly efficient and reliable professional who possesses a broad skill set focused on web and mobile application development, and worked on a range of products with clients from working on scalability obstacles in production engineering at `Tensail Analytics`, `JustGetvisible`, `Snapwiz`, `GoHomly`, `Bright Data`, `Atom Foundation`, `LightNode Staking`, `Massless`, and `okTurtles` with the objective to develop programming solutions and launch new applications. `Silver-IT` focus on creating code that is easy to read, maintain, and test to optimize the developer’s experience and optimizing the overall functionality and aesthetics of the applications themselves.
 
 #### ✨ Technical Stacks ✨
 
