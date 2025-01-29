@@ -14,5 +14,3 @@
 * 🥉 Test Framework: [Jest](https://jestjs.io/), [Mocha](https://mochajs.org/)/[Chai](https://www.chaijs.com/), [Protractor](https://www.protractortest.org), [Jasmine](https://jasmine.github.io/)
 
 What `Silver-IT` does is to collaborate on enterprise solutions and to help people in order to find solutions, make consultants, and solve problems regarding the idea they have.
-
-Feel free to contact `Silver-IT` via [eMail](mailto:alex.jin220@gmail.com?Subject=Hello%20Silver!), [Skype](https://join.skype.com/invite/w4zVrveF15sQ) or [Telegram](https://t.me/alexjin_220) who is always ready to make your professional dreams a reality.
